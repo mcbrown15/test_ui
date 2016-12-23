@@ -1,0 +1,368 @@
+/* LAYOUT MEASUREMENTS */
+#all{
+    width: 800px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* HEADER LAYOUT MEASUREMENTS */
+#header{
+    text-align: center;
+    width: 800px;
+    height: 100px;
+    padding-top: 1em;
+}
+/* CENTER LAYOUT MEASUREMENTS */
+#center{
+    width: 800px;
+    height: 60px;
+    text-align: center;
+    background-color: #000000;
+    clear: both;
+    padding-bottom: 1em;
+    color:white;
+}
+/* LEFT LAYOUT MEASUREMENTS */
+#left{
+    float: left;
+    width: 50%;
+    clear: left;
+    height: 800px;
+    padding-right: .5em;
+    margin-top: 30px;
+}
+/* PLANT IMAGE ON LEFT SIDE SECTION */
+.plantimage img{
+    margin-left: 20px;
+    border: 1px solid #DCDCDC;
+}
+/* BEST SUMMER HEADING */
+.bestsummer h6{
+    color: #75dbc6;
+    margin-left: 20px;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+/*BEST SUMMER PARAGRAPH */
+.bestsummer p{
+    color: #000000;
+    font-family: "Times New Roman", Georgia, Serif;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.date{
+    margin-bottom: 30px;
+}
+.date p{
+    color: #000000;
+    font-family: "Times New Roman", Georgia, Serif;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.date a{
+    color: #75dbc6;
+    font-family: "Times New Roman", Georgia, Serif;
+    text-decoration: none;
+    border-bottom: 1px dotted #D3D3D3;
+}
+/* FOOD IMAGE SECTION */
+.foodimage img{
+    margin-left: 20px;
+    border: 1px solid #DCDCDC;
+}
+/* PINTEREST HEADING */
+.pinterest h6{
+    color: #75dbc6;
+    margin-left: 20px;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+/* PINTEREST PARAGRAPH */
+.pinterest p{
+    color: #000000;
+    font-family: "Times New Roman", Georgia, Serif;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.date p{
+    color: #000000;
+    font-family: "Times New Roman", Georgia, Serif;
+    margin-left: 20px;
+    font-size: 14px;
+
+}
+.date a{
+    color: #75dbc6;
+    font-family: "Times New Roman", Georgia, Serif;
+    text-decoration: none;
+    border-bottom: 1px dotted #D3D3D3;
+}
+
+/* RIGHT LAYOUT MEASUREMENTS */
+#right{
+    float: left;
+    width: 50%;
+    height: 800px;
+    padding-left: .5em;
+    margin-top: 30px;
+}
+/* VEGETABLE CHIPS ON RIGHT SIDE SECTION */
+.vegchipsimage img{
+    margin-left: 20px;
+    border: 1px solid #DCDCDC;
+}
+/* VEGS CHIPS HEADING */
+.vegchips h6{
+    color: #75dbc6;
+    margin-left: 20px;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+/* VEGS CHIPS PARAGRAPH */
+.vegchips p{
+    color: #000000;
+    font-family: "Times New Roman", Georgia, Serif;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.date{
+    margin-bottom: 30px;
+}
+.date p{
+    color: #000000;
+    font-family: "Times New Roman", Georgia, Serif;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.date a{
+    color: #75dbc6;
+    font-family: "Times New Roman", Georgia, Serif;
+    text-decoration: none;
+    border-bottom: 1px dotted #D3D3D3;
+}
+/* PLATE IMAGE SECTION */
+.plateimage img{
+    margin-left: 20px;
+    border: 1px solid #DCDCDC;
+}
+/* SUNDAY SUPPER HEADING */
+.sundaysupper h6{
+    color: #75dbc6;
+    margin-left: 20px;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+/* SUNDAY SUPPER PARAGRAPH */
+.sundaysupper p{
+    color: #000000;
+    font-family: "Times New Roman", Georgia, Serif;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.date p{
+    color: #000000;
+    font-family: "Times New Roman", Georgia, Serif;
+    margin-left: 20px;
+    font-size: 14px;
+
+}
+.date a{
+    color: #75dbc6;
+    font-family: "Times New Roman", Georgia, Serif;
+    text-decoration: none;
+    border-bottom: 1px dotted #D3D3D3;
+}
+/* FOOTER LAYOUT MEASUREMENTS */
+#footer{
+    width: 800px;
+    height: 200px;
+    padding-bottom: 1em;
+    float: left;
+    font-size: 13px;
+}
+.footernav li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    text-decoration: none;
+}
+.footernav ul{
+    margin-top: 10px;
+    float:left;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.footernav ul li a{
+    text-decoration: none;
+    color: #75dbc6;
+}
+.footerdate{
+    float:left;
+    clear:both;
+    margin-top: 0px;
+}
+.footerdate p{
+    color:#D3D3D3;
+}
+/* FOOTER SOCIAL MEDIA ICONS */
+.socialmediaicons img{
+    top: 0;
+    float: right;
+    color:#D3D3D3;
+}
+/* FOOD SENSE LOGO IMAGE*/
+.foodsense{
+    height: 150px;
+    width: 149px;
+    float: left;
+    margin-left: 20px;
+}
+/* MENU NAVIGATION SELECTION*/
+.tastemaker{
+  margin-left:0px;
+  width:110px;
+}
+.blog{
+  margin-left:20px;
+  width:110px;
+}
+.alist{
+  margin-left:20px;
+  width:110px;
+}
+.contribute{
+  margin-left:20px;
+  width:110px;
+}
+.about{
+  margin-left:20px;
+  width:110px;
+}
+.menuselection ul li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    text-decoration: none;
+}
+.menuselection ul{
+    margin-top: 50px;
+    float:left;
+}
+.menuselection ul li a{
+    text-decoration: none;
+    color: #75dbc6;
+}
+/* BOWL IMAGE LAYOUT AND STYLE */
+.module {
+  background: url(images/0140_foodsense.jpg);
+  background-attachment: scroll;
+  width: 100%;
+  height: 520%;
+  position: relative;
+  overflow: hidden;
+  margin-top: 40px;
+  float:left;
+}
+.module > header {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 10px;
+  overflow: hidden;
+}
+.module > header::before {
+  content: "";
+  position: absolute;
+  top: -20px;
+  left: 0;
+  width: 200%;
+  height: 300%;
+  -webkit-filter: blur(4px);
+  filter: blur(4px);
+}
+.module > header::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  opacity: 0.6;
+}
+.module > header > h2 {
+  margin: 0;
+  color: #000000;
+  position: relative;
+  z-index: 1;
+  text-align: left;
+  font-size: 20px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-style: italic;
+}
+/* HORIZONTAL LINE STYLE */
+hr{
+    border: none;
+    border-top: 1px dotted #c0c0c0;
+    color: #fff;
+    height: 3px;
+    width: 100%;
+}
+/* BALCK PANEL */
+.browsegallery h3 {
+  font: 400 20px/1.3 'Oleo Script', Helvetica, sans-serif;
+  color: #FFFFFF;
+  text-shadow: 4px 4px 0px rgba(0,0,0,0.1);
+  float: left;
+  position: relative;
+  margin-left: 10px;
+}
+/* SIGN UP SELECTION WITH EMAIL IMAGE */
+.signup{
+    padding-top: 100px;
+}
+.signup img{
+    float: left;
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+}
+.signup span{
+    color: #000000;
+    float: left;
+    font-size: 14px;
+    font-family: cursive;
+    margin-left: 10px;
+}
+.email{
+    float: left;
+    padding-top: 10px;
+    clear: both;
+    margin-left: 20px;
+    width: 350px;
+    margin-bottom: 30px;
+}
+.email input{
+    width: 350px;
+    clear: both;
+}
+.subscribebutton input {
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
